@@ -1,2 +1,1 @@
-# Daily-DSA
-Daily-DSA questions 
+"This repository is my comprehensive resource for daily Data Structures and Algorithms (DSA) question solutions. It have a wide range of coding examples, explanations, and insights to develop problem-solving skills and excel in DSA."
