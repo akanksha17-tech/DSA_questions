@@ -1,3 +1,4 @@
+package DSA_coding_ninja.Arrays_dsa.Easy;
 import java.util.*;
 public class ArrayC{
     public static int linearSearch(int num[], int key){
